@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804209120358",
+    "project_id": "skill-path-8a04e",
+    "storage_bucket": "skill-path-8a04e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804209120358:android:dd60b7989007414b05c9a7",
+        "android_client_info": {
+          "package_name": "com.example.skill_path"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJrf6-0CvszkPCTQhHnCp-05_ylrNvgg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
